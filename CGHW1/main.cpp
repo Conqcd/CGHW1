@@ -19,6 +19,7 @@ int main()
 
 void readObj(const char* filename, mesh* &object)
 {
+	int i = 0;
 	if (object != nullptr)
 	{
 		delete object;
