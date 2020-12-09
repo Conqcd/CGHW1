@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(69,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(75,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(81,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(89,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CGHW1.vcxproj -> E:\浙大文件\研一\CG\CGHW1\Debug\CGHW1.exe

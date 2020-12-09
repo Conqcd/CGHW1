@@ -1,6 +1,29 @@
 ﻿  main.cpp
-E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(69,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(75,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(81,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(89,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\浙大文件\研一\CG\CGHW1\CGHW1\Camera.h(127,93): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\Camera.h(127,57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\Camera.h(127,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(66,35): warning C4305: “参数”: 从“double”到“bool”截断
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(71,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(79,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(153,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(153,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(153,29): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(159,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(159,29): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(165,34): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(165,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(165,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(152,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(158,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(164,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(172,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(187,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(190,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(211,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(212,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(215,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(216,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(217,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(218,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\浙大文件\研一\CG\CGHW1\CGHW1\main.cpp(225,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
   CGHW1.vcxproj -> E:\浙大文件\研一\CG\CGHW1\Debug\CGHW1.exe

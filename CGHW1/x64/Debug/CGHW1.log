@@ -1,0 +1,44 @@
+﻿  Camera.cpp
+  main.cpp
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\main.cpp(67,35): warning C4305: “参数”: 从“double”到“bool”截断
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\main.cpp(126,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\main.cpp(132,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\main.cpp(138,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\main.cpp(146,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\main.cpp(161,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\main.cpp(164,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\main.cpp(185,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\main.cpp(186,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\main.cpp(189,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\main.cpp(190,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\main.cpp(191,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\main.cpp(192,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\main.cpp(199,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Matrix.cpp
+  mesh.cpp
+  Model.cpp
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\Model.cpp(29,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\Model.cpp(72,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\Model.cpp(78,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\Model.cpp(84,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\Model.cpp(92,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Shader.cpp
+  tri.cpp
+  vec.cpp
+  正在生成代码...
+  glad.c
+main.obj : error LNK2019: 无法解析的外部符号 glfwInit，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwTerminate，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwWindowHint，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwCreateWindow，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwSetWindowShouldClose，函数 "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwSetFramebufferSizeCallback，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwSetInputMode，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwGetKey，函数 "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwSetCursorPosCallback，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwSetScrollCallback，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwMakeContextCurrent，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwGetProcAddress，函数 main 中引用了该符号
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\lib\glew32s.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\ZJUfile\G1\CG\CGHW1\CGHW1\lib\glfw3.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\ZJUfile\G1\CG\CGHW1\x64\Debug\CGHW1.exe : fatal error LNK1120: 12 个无法解析的外部命令
